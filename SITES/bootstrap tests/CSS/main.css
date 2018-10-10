@@ -1,0 +1,38 @@
+.red {
+  background: red;
+}
+
+.orange {
+  background: orange;
+}
+
+.pink {
+  background: pink;
+}
+
+.blue {
+background: blue;
+
+}
+
+.amanda-header  {
+  color: yellow;
+  border: 2px solid white;
+}
+
+.row1{
+  margin-top: 5px;
+}
+
+
+.bg-light {
+    background: red !important;
+  }
+
+.navbar-brand{
+  color: yellow !important;
+}
+
+.navbar-brand-img {
+  max-width: 100px;
+}
