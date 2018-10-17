@@ -1,0 +1,77 @@
+
+img{
+  width: 380px;
+  max-height: 350px;
+  border-width: medium;
+  border-color: blue;
+  border-style: dashed;
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-bottom: 20px;
+
+}
+    body {
+      font: 20px Montserrat, sans-serif;
+      line-height: 1.8;
+      color: #f5f6f7;
+  }
+  p {font-size: 20px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 {
+      background-color: lightblue; /* Green */
+      color: #ffffff;
+  }
+  .bg-2 {
+      background-color: #474e5d; /* Dark Blue */
+      color: #ffffff;
+
+  }
+  .bg-3 {
+      background-color:lightpink; /* White do i like */
+      color: #555555;
+
+  }
+  .bg-4 {
+      background-color: lightblue; /* Black Gray */
+      color: #fff;
+  }
+  .container-fluid {
+      padding-top:15px;
+      padding-bottom: 70px;
+  }
+  .navbar {
+      padding-top: 15px;
+      padding-bottom: 15px;
+      border: 0;
+      border-radius: 0;
+      margin-bottom: 0;
+      font-size: 12px;
+      letter-spacing: 2px;
+  }
+  .navbar-nav  li a:hover {
+      color: #1abc9c !important;
+  }
+
+  .list {
+
+    font-size: 20px;
+    text-align: left;
+    align-items: center;
+    padding-bottom: 20px;
+  }
+
+  .media{
+  width: auto; height: auto;
+
+  }
+  .media-body{
+
+  }
+  .lightpink{
+    background:lightpink;
+    padding-bottom: 15px;
+  }
+.hi{
+  margin: 25px;
+  padding-left: 50px;
+}
